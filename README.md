@@ -1,3 +1,4 @@
+<B>INTRODUCTION TO PROGRAMMING, DATA VISUALIZATION, & MODEL FITTING WITH PYTHON</B>
 
 This workshop explores Python programming language as a tool in the 
 scientific environments and how the language, with several available 
