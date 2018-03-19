@@ -1,4 +1,3 @@
-# PythonWorkshopApril2018
 
 This workshop explores Python programming language as a tool in the 
 scientific environments and how the language, with several available 
