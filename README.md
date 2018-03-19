@@ -1,5 +1,5 @@
 # PythonWorkshopApril2018
-INTRODUCTION TO PROGRAMMING, DATA VISUALIZATION, &amp; MODEL FITTING WITH PYTHON
+
 This workshop explores Python programming language as a tool in the 
 scientific environments and how the language, with several available 
 open source libraries can serve as a powerful weapon in your data 
